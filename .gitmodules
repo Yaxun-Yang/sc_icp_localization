@@ -1,0 +1,15 @@
+[submodule "my_ws/src/smart_vehicle"]
+	path = my_ws/src/smart_vehicle
+	url = https://github.com/Launch-on-Titania/smart_vehicle
+[submodule "catkin_ws/src/icp_localization"]
+	path = catkin_ws/src/icp_localization
+	url = https://github.com/leggedrobotics/icp_localization
+[submodule "catkin_ws/src/libnabo"]
+	path = catkin_ws/src/libnabo
+	url = https://github.com/leggedrobotics/libnabo
+[submodule "catkin_ws/src/libpointmatcher"]
+	path = catkin_ws/src/libpointmatcher
+	url = https://github.com/leggedrobotics/libpointmatcher
+[submodule "catkin_ws/src/pointmatcher-ros"]
+	path = catkin_ws/src/pointmatcher-ros
+	url = https://github.com/leggedrobotics/pointmatcher-ros
