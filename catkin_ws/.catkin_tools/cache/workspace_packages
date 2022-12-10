@@ -1,0 +1,5 @@
+_workspace_packages=( ${(Q)"${(z)$(<<\EO:_workspace_packages
+'libnabo' 'libpointmatcher' 'pointmatcher_ros' 'icp_localization'
+EO:_workspace_packages
+)}"} )
+_workspace_cache_file_path='/home/yyxunn/school/smartV/project/catkin_ws/.catkin_tools/cache'

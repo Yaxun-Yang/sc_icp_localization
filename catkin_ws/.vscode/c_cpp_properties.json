@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/ros/noetic/include",
+                "/usr/include/**",
+                "/home/yyxunn/school/smartV/project/catkin_ws/devel/include/**",
+                "/home/yyxunn/school/smartV/project/catkin_ws/src/icp_localization/include/**",
+                "/home/yyxunn/school/smartV/project/catkin_ws/src/pointmatcher-ros/include/**",
+                "/home/yyxunn/school/smartV/project/my_ws/src/smart_vehicle/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "defines": [],
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+           
+            "configurationProvider": "${workspaceFolder}/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}
